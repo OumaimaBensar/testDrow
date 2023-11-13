@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T22:01:04.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="9CxJc2sJ59WyXXwkjmxy" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-13T22:01:55.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="tHdvsBviIAqk19yK5IGx" version="22.1.0" type="github" pages="10">
   <diagram id="J-hNA5ClU3yTLYx-0fgb" name="Main">
     <mxGraphModel dx="1522" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
           <mxGeometry x="387.5" y="217.5" width="22.5" height="27.35" as="geometry" />
         </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-323" value="" style="shadow=0;fontSize=14;align=center;spacing=10;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1787" y="-11.999999999999964" width="1369" height="790" as="geometry" />
+          <mxGeometry x="1791" y="-16.999999999999964" width="1369" height="790" as="geometry" />
         </mxCell>
         <mxCell id="1ItUVVGaVldfMO-PlH1g-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="8Ez_Af4AxDolknUY_GBi-323" source="8Ez_Af4AxDolknUY_GBi-324" target="8Ez_Af4AxDolknUY_GBi-326">
           <mxGeometry relative="1" as="geometry" />
@@ -394,14 +394,8 @@
         <mxCell id="8Ez_Af4AxDolknUY_GBi-347" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Message Queue&lt;/blockquote&gt;" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
           <mxGeometry x="981.0029260935145" y="350.7" width="207.20000000000002" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="8Ez_Af4AxDolknUY_GBi-348" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.snaplogic.com/wp-content/uploads/2016/05/kafka-logo-600x390.jpg;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
-          <mxGeometry x="986.21" y="355" width="53.15" height="34.54" as="geometry" />
-        </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-349" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;strokeColor=#000000;strokeWidth=0;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
-          <mxGeometry x="997.8833031674209" y="380.3" width="25.903627450980395" height="25.4" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ez_Af4AxDolknUY_GBi-350" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.iron.io/wp-content/uploads/2020/11/RabbitMQ.jpg;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
-          <mxGeometry x="1032.077330316742" y="414.64" width="83.34" height="46.96" as="geometry" />
+          <mxGeometry x="1009" y="359" width="37" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-351" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Logging and&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&amp;nbsp;Monitoring&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&amp;nbsp;Service:&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
           <mxGeometry x="203.0013868312758" y="670.0018644067798" width="164.1399176954733" height="80.33898305084746" as="geometry" />

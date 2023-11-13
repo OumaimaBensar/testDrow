@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T22:03:35.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="A5_VRJ95YAbjQeqPwZUr" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-13T22:04:48.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="ZBXeELd-K9TK5FcIX2DV" version="22.1.0" type="github" pages="10">
   <diagram id="J-hNA5ClU3yTLYx-0fgb" name="Main">
     <mxGraphModel dx="2564" dy="1431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
           <mxGeometry x="431.66666666666674" y="78" width="493.3333333333334" height="630" as="geometry" />
         </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-331" value="Architecture: Composant" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
-          <mxGeometry x="24.666666666666668" y="20" width="1344.3333333333335" height="40" as="geometry" />
+          <mxGeometry x="24.67" y="20" width="1286.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="8Ez_Af4AxDolknUY_GBi-323" source="8Ez_Af4AxDolknUY_GBi-333" target="8Ez_Af4AxDolknUY_GBi-347" edge="1">
           <mxGeometry relative="1" as="geometry" />

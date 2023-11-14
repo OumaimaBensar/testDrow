@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T00:12:03.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="YZgZeX9rR1oQCIbLCTsm" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-14T00:14:22.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Avast/118.0.0.0" etag="kZj32V2d_bhsp7IWcGNR" version="22.1.0" type="github" pages="10">
   <diagram id="J-hNA5ClU3yTLYx-0fgb" name="Main">
-    <mxGraphModel dx="1490" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,6 +331,9 @@
         <mxCell id="1ItUVVGaVldfMO-PlH1g-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="8Ez_Af4AxDolknUY_GBi-323" source="8Ez_Af4AxDolknUY_GBi-324" target="63pJ6nhPIVJ2X6aXlLjZ-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BSbL4Vh4T0dyi10dFU5r-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8Ez_Af4AxDolknUY_GBi-323" source="8Ez_Af4AxDolknUY_GBi-324" target="BSbL4Vh4T0dyi10dFU5r-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Ez_Af4AxDolknUY_GBi-324" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;API Getway&lt;/blockquote&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" parent="8Ez_Af4AxDolknUY_GBi-323" vertex="1">
           <mxGeometry x="102.37138683127574" y="335.2342372881356" width="164.1399176954733" height="80.33898305084746" as="geometry" />
         </mxCell>
@@ -492,6 +495,9 @@
           <mxGeometry x="-0.0592" y="-4" relative="1" as="geometry">
             <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BSbL4Vh4T0dyi10dFU5r-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8Ez_Af4AxDolknUY_GBi-323" source="BSbL4Vh4T0dyi10dFU5r-117" target="8Ez_Af4AxDolknUY_GBi-347">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSbL4Vh4T0dyi10dFU5r-117" value="VoteDeals Service" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="8Ez_Af4AxDolknUY_GBi-323">
           <mxGeometry x="462.5" y="125.4" width="168.9666666666667" height="60" as="geometry" />
